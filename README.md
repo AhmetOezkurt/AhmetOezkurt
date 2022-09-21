@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Özkurt</h1>
 <h3 align="center">Frontend Developer Education @ DeveloperAkademie</h3>
 
-- 🔭 I’m currently working on **Different Projects**
+- 🔭 I’m currently working on **various small Projects**
 
 - 🌱 I’m currently learning **HTML/CSS, Javascript, Angular**
 
