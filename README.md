@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Özkurt</h1>
-<h3 align="center">Frontend Developer Education @ Developer Akademie München</h3>
+<h3 align="center">Web Developer Education @ Developer Akademie München</h3>
 
 - 🔭 I’m currently working on **various small Projects**
 
